@@ -1,0 +1,1 @@
+This is intended to retrieve Yandex Weather data for further data processing.
